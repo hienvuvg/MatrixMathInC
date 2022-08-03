@@ -1,2 +1,2 @@
-# Matrix math operations in C/C++
+# Matrix math operations in C/C++ for MCU
 Add, Multiply, Subtract, Transpose, Invert ...
